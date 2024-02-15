@@ -1,0 +1,5 @@
+Make a list of groceries
+learn python for 10 minutes
+Buy Fruits
+Clean the bag
+prepare a help document
